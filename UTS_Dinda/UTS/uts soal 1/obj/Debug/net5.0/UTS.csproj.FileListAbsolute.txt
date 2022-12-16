@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.AssemblyInfo.cs
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\UTS.exe
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\UTS.deps.json
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\UTS.runtimeconfig.json
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\UTS.runtimeconfig.dev.json
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\UTS.dll
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\ref\UTS.dll
+C:\Users\HP\Desktop\UTS\bin\Debug\net5.0\UTS.pdb
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.dll
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\ref\UTS.dll
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.pdb
+C:\Users\HP\Desktop\UTS\obj\Debug\net5.0\UTS.genruntimeconfig.cache

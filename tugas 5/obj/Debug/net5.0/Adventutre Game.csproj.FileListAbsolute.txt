@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.AssemblyInfo.cs
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\Adventutre Game.exe
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\Adventutre Game.deps.json
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\Adventutre Game.runtimeconfig.json
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\Adventutre Game.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\Adventutre Game.dll
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\ref\Adventutre Game.dll
+C:\Users\HP\Desktop\Adventutre Game\bin\Debug\net5.0\Adventutre Game.pdb
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.dll
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\ref\Adventutre Game.dll
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.pdb
+C:\Users\HP\Desktop\Adventutre Game\obj\Debug\net5.0\Adventutre Game.genruntimeconfig.cache

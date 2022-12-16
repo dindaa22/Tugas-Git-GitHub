@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.AssemblyInfo.cs
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\DasPro.exe
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\DasPro.deps.json
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\DasPro.runtimeconfig.json
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\DasPro.runtimeconfig.dev.json
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\DasPro.dll
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\ref\DasPro.dll
+C:\Users\HP\Desktop\DasPro\bin\Debug\net5.0\DasPro.pdb
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.dll
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\ref\DasPro.dll
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.pdb
+C:\Users\HP\Desktop\DasPro\obj\Debug\net5.0\DasPro.genruntimeconfig.cache

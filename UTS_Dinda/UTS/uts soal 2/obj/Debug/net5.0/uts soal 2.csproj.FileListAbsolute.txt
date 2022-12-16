@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\uts soal 2.exe
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\uts soal 2.deps.json
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\uts soal 2.runtimeconfig.json
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\uts soal 2.runtimeconfig.dev.json
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\uts soal 2.dll
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\ref\uts soal 2.dll
+C:\Users\HP\Desktop\UTS\uts soal 2\bin\Debug\net5.0\uts soal 2.pdb
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.dll
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\ref\uts soal 2.dll
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.pdb
+C:\Users\HP\Desktop\UTS\uts soal 2\obj\Debug\net5.0\uts soal 2.genruntimeconfig.cache
